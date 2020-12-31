@@ -9,8 +9,3 @@ gdfgdfh dhjkg dhgkd hjdkg hdk
 
  gdf
  gdfg
- dd
- df
- gdf
- gdf
- gdf
