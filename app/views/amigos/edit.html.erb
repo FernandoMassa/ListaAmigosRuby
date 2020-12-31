@@ -1,0 +1,7 @@
+<h1>Alterando Amigo</h1>
+<br/>
+<%= render 'form', amigo: @amigo %>
+<br/>
+<%= link_to 'Show', @amigo, class:"btn btn-secondary" %> |
+<%= link_to 'Delete', @amigo, method: :delete, data: { confirm: 'Are you sure?' }, class: "btn btn-danger" %> |
+<%= link_to 'Back', amigos_path, class:"btn btn-secondary"%>
